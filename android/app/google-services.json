@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796133079403",
+    "project_id": "fire-flutter-6544e",
+    "storage_bucket": "fire-flutter-6544e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796133079403:android:bbe6ae4cab8b21423db42e",
+        "android_client_info": {
+          "package_name": "com.robchat.app_roberto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796133079403-i4jcroh2orq5pg6mthjk0vrghre9gmi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAa5RCG9kV2D81jttbrRpQPqifQM0lGHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796133079403-i4jcroh2orq5pg6mthjk0vrghre9gmi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
